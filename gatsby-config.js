@@ -17,11 +17,11 @@ module.exports = {
       // See the theme's README for all available options
       options: {},
     },
-   # {
-   #   resolve: `gatsby-plugin-google-analytics`,
-   #   options: {
-   #     trackingId: process.env.GOOGLE_ANALYTICS_ID,
-   #   },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 266915756,
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
